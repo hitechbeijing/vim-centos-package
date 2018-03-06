@@ -1,6 +1,6 @@
 # vim-centos-package
 
-This is a project for building Nightly Vim centos rpm package sources from (<a href="https://github.com/vim/vim">vim</a>).
+This is a project for building Nightly Vim centos rpm package sources from (<a href="https://github.com/vim/vim">Vim</a>).
 
 Please make sure you have choose the right version
 el6 is build for centos 6
